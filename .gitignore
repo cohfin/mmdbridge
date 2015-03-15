@@ -8,6 +8,8 @@
 *.sln.docstates
 MMDExport.h
 MMDExport.lib
+/libs/dxsdk/include
+/libs/dxsdk/lib
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
