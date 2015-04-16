@@ -8,6 +8,9 @@
 *.sln.docstates
 MMDExport.h
 MMDExport.lib
+/libs/alembic/*
+!/libs/alembic/build.bat
+/libs/boost/include
 /libs/dxsdk/include
 /libs/dxsdk/lib
 
